@@ -1,0 +1,21 @@
+{
+    "name": "notion-code-theme",
+    "displayName": "Notion Code Theme",
+    "description": "Code theme inspired by notion's code element ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.53.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Notion Code Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Notion Code Theme-color-theme.json"
+            }
+        ]
+    }
+}
