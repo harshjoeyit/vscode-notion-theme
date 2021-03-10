@@ -1,10 +1,10 @@
 ## Notion Code Theme
 
-![Notion Code Theme Demo](images/wall/wall1.png)
+![Notion Code Theme Demo](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/wall1.png)
 
 Hey, thanks for checking out my VS Code theme. It is a gem for those who love to code on a light theme and have fallen in love with [ Notion ](https://www.notion.so/)
 
-![Notion Code Theme Demo](images/wall/intro.gif)
+![Notion Code Theme Demo](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/intro.gif)
 
 ### Installation
 

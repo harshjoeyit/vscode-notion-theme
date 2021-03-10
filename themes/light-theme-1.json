@@ -282,7 +282,7 @@
 		"gitDecoration.addedResourceForeground": "#00876B",
 		"gitDecoration.conflictingResourceForeground": "#f370b6",
 		"gitDecoration.deletedResourceForeground": "#e90061",
-		"gitDecoration.ignoredResourceForeground": "#DFAB01",
+		"gitDecoration.ignoredResourceForeground": "#979A9B",
 		"gitDecoration.modifiedResourceForeground": "#ec841b",
 		"gitDecoration.renamedResourceForeground": "#9A6DD7",
 		"gitDecoration.stageDeletedResourceForeground": "#937264",
@@ -291,7 +291,7 @@
 		"gitDecoration.untrackedResourceForeground": "#00876B",
 		
 		"breadcrumb.activeSelectionForeground": "#9A6DD7",
-		"breadcrumb.focusForeground": "#996dd7d0",
+		"breadcrumb.focusForeground": "#996dd7d0"
 	},
 	"tokenColors": [
 		{
