@@ -1,21 +1,52 @@
 {
     "name": "notion-code-theme",
     "displayName": "Notion Code Theme",
-    "description": "Code theme inspired by notion's code element ",
+    "description": "For Notion lovers who love to Code",
     "version": "0.0.1",
+    "publisher": "harshjoeyit",
+    "author": {
+        "name": "Harshit Gangwar"
+    },
     "engines": {
         "vscode": "^1.53.0"
     },
     "categories": [
         "Themes"
     ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/harshjoeyit/vscode-notion-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/harshjoeyit/vscode-notion-theme/isuues"
+    },
+    "galleryBanner": {
+        "color": "#9A6DD7",
+        "theme": "light"
+    },
+    "icon": "images/icon/theme-icon.png",
+    "keywords": [
+        "notion code theme",
+        "notion",
+        "notion code",
+        "code snippet",
+        "notion code snippet",
+        "light theme",
+        "light",
+        "purple",
+        "grey",
+        "pink",
+        "blue",
+        "subtle"
+    ],
     "contributes": {
         "themes": [
             {
                 "label": "Notion Code Theme",
                 "uiTheme": "vs",
-                "path": "./themes/Notion Code Theme-color-theme.json"
+                "path": "./themes/light-theme-1.json"
             }
         ]
-    }
+    },
+    "dependencies": {}
 }
