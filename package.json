@@ -2,7 +2,7 @@
     "name": "notion-code-theme",
     "displayName": "Notion Code Theme",
     "description": "For Notion lovers who love to Code",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "HarshitGangwar",
     "author": {
         "name": "Harshit Gangwar"
@@ -21,7 +21,7 @@
         "url": "https://github.com/harshjoeyit/vscode-notion-theme/isuues"
     },
     "galleryBanner": {
-        "color": "#9A6DD7",
+        "color": "#ceb3ff",
         "theme": "light"
     },
     "icon": "images/icon/theme-icon.png",
