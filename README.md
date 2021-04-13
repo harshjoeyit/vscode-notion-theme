@@ -1,33 +1,163 @@
-## Notion Code Theme
+<div align="center">
 
-![Notion Code Theme Demo](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/wall1.png)
+![Example running](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/other-images/normal_work_page.png)
 
-Hey, thanks for checking out my VS Code theme. It is a gem for those who love to code on a light theme and have fallen in love with [ Notion ](https://www.notion.so/)
+</div>
 
-![Notion Code Theme Demo](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/intro.gif)
+### Description
 
-### Installation
+Do you love [**Notion**](https://www.notion.so/) too? Well, I do a lot actually and that's why I built this for all the folks out there.
+Its a fancy but yet sophisticated light color scheme theme for Visual Studio Code.I have kept in mind the aesthetics, contrast and readability for a greater experience. 
 
-1. Open the extensions sidebar on Visual Studio Code
-2. Search for Notion Code Theme
-3. Click Install
-4. Click Reload to reload your editor
+Give it a try :)
+
+<br/><br />
+
+### Installing
+1. Open Extensions sidebar panel in VS Code: View → Extensions
+2. Search for Notion Code Theme - by Harshit Gangwar
+3. Click Install to install it.
+4. Click Reload to reload the your editor
 5. Go to settings and choose "Color Theme" or use shortcut [Ctrl K + T]
-6. 🌟🌟🌟🌟🌟 Rate five-stars
+
+P.S. You could also visit [**marketplace**](https://marketplace.visualstudio.com/items?itemName=HarshitGangwar.notion-code-theme) and install the theme
+<br/><br/>
 
 
-### Tips to make most of the theme 
-1. For File Icon theme use [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
-2. Remove all the overriden rules in `settings.json`
+### Screenshots 
+Here are a bunch of screenshots. I tested on a few languages that are soaring these days, these are just a few.
+<br /><br />
 
-### Issues & Suggestions
+> C#
 
-For any issues or suggestions, please use [GitHub issues](https://github.com/harshjoeyit/vscode-notion-theme/issues).
+![C#](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/c%23.png)
+<br /><br />
 
-### About me
+> C++
 
-[My Portfolio](https://harshjoeyit.github.io/)
+![C++](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/cpp.png)
+<br /><br />
 
-[GitHub Profile](https://github.com/harshjoeyit)
 
-Share if you like :heart:
+> CSS
+
+![CSS](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/css.png)
+<br /><br />
+
+
+> HTML
+
+![HTML](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/html.png)
+<br /><br />
+
+
+> Java
+
+![Java](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/java.png)
+<br /><br />
+
+> JavaScript
+
+![Javascript](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/javascript.png)
+<br /><br />
+
+> PHP
+
+![php](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/php.png)
+<br /><br />
+
+> Python
+
+![python](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/python.png)
+<br /><br />
+
+> Ruby
+
+![python](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/ruby.png)
+<br /><br />
+
+> Swift
+
+![python](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/code-samples/swift.png)
+<br /><br />
+
+
+### Sneak Peek
+<br />
+
+> File Explorer
+
+![file](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/other-images/file_explorer.png)
+<br /><br />
+
+> Terminal
+
+![file](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/other-images/terminal.png
+)
+<br /><br />
+
+
+### Built With
+- vscode - VS Code editor
+- yo code - Extension Generator
+- vsce - Publishing Tool Reference
+<br/><br/>
+
+
+### Tweaks & theming
+If you want to play around with new colors, use the setting `workbench.colorCustomizations` to customize. For example, you can add this snippet in your "settings.json" file:
+
+```
+"workbench.colorCustomizations": {
+  "tab.activeBackground": "#4DAB9A",
+  "activityBar.background": "#4DAB9A"
+}
+```
+or use the setting editor.tokenColorCustomizations
+
+```
+"editor.tokenColorCustomizations": {
+  "[Notion Code Theme]": {
+    "textMateRules": [
+      {
+        "scope": ["source.python"],
+        "settings": {
+          "foreground": "#FBF3DB"
+        }
+      }
+    ]
+  }
+}
+```
+<br/>
+
+### Color Palette
+
+|  Pallete              |   Colors(Hex) |
+|---                    |       ---     |
+| foreground            |   `#37352F`   |
+| background            |   `#F7F6F3`   |
+| selectionBackground   |   `#DDEBF1`   |
+| comment               |   `#708090`   |
+| orange                |   `#FFA344`   |
+| pink                  |   `#E255A1`   |
+| blue                  |   `#529CCA`   |
+| purple                |   `#9A6DD7`   |
+| green                 |   `#4DAB9A`   |
+| grey                  |   `#979A9B`   |
+<br/>
+
+### If something doesn't feet right
+
+Please reach out to me on [GitHub issues](https://github.com/harshjoeyit/vscode-notion-theme/issues). Suggestions and costructive criticism is always welcome.
+
+<br/>
+
+### Author
+**Harshit Gangwar** [**@portfolio**](https://harshjoeyit.github.io/)  [**@github**](https://github.com/harshjoeyit)
+
+<br/><br />
+
+<div align="center"><span>Rate</span></div>
+<div align="center"><span>⭐️⭐️⭐️⭐️⭐</span></div>
+<div align="center"><span>if you loved it!</span></div>
