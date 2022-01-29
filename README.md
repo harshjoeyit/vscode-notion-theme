@@ -1,7 +1,11 @@
 <div align="center">
 
+<a href="https://www.producthunt.com/posts/notion-vs-code-theme?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-notion-vs-code-theme" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=328986&theme=light" alt="Notion VS Code theme - Sophisticated light color scheme theme for VS Code | Product Hunt" style="width: 200px; height: 54px;" width="250" height="54" /></a>
+<br /><br />
+  
 ![Example running](https://my-image-gallery.s3.ap-south-1.amazonaws.com/notion-code-theme/other-images/normal_work_page.png)
 
+<br />
 </div>
 
 ### Description
@@ -11,7 +15,7 @@ Its a fancy but yet sophisticated light color scheme theme for Visual Studio Cod
 
 Give it a try :)
 
-<br/><br />
+<br/>
 
 ### Installing
 1. Open Extensions sidebar panel in VS Code: View → Extensions
@@ -160,4 +164,4 @@ Please reach out to me on [GitHub issues](https://github.com/harshjoeyit/vscode-
 
 <div align="center"><span>Rate</span></div>
 <div align="center"><span>⭐️⭐️⭐️⭐️⭐</span></div>
-<div align="center"><span>if you loved it!</span></div>
+<div align="center"><span>if you loved it!</span></div>a
